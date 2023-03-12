@@ -1,4 +1,4 @@
-# Cost-of-Living-Analysis
+# How Expensive is Living in Your Country? An Evaluation of the Global Cost of Living in 2022.
 
 
 1. Introduction
