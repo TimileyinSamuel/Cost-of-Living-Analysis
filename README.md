@@ -269,6 +269,9 @@ The Spearman correlation coefficient yields a similar result.
 How do indicators such as rent, restaurant prices, and grocery prices affect the overall cost of living? To investigate this, I used multiple linear regression to determine the contribution of each variable to the cost of living. Prior to performing the regression analysis, the assumptions of multicollinearity, homoscedasticity, linearity, and normality were validated using the appropriate tests.
 
 
+<img width="625" alt="Screenshot 2023-01-16 at 15 52 08" src="https://user-images.githubusercontent.com/119361599/224562881-c7e7824f-6ab4-4fd9-96d8-19299f5f7f06.png">
+
+
 As expected, the rent index, the grocery index, and the restaurant price index all have a statistically significant impact on the cost of living. The rent index has the greatest impact on the cost of living (51% of the total contribution to the cost of living index). As rent increases by a factor of 1, the cost of living changes by a factor of 0.5. Following this is the grocery index (31% contribution). The restaurant price index contributes the remaining 17%.
 
 
