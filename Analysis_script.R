@@ -135,20 +135,11 @@ bar_chart_function(data = bottomcli, x = bottomcli$country, y = bottomcli$cost_o
 histogram_plot_function(x = df$rent_index, axis_name = "rent index")
 
 
-### Top 10 countries with highest rent
-
-### Bottom 10 countries with lowest rent
-
 
 ##### 3. GROCERIES INDEX
 ### Histogram Distribution
 histogram_plot_function(x = df$rent_index, axis_name = "groceries index")
 
-
-### Top 10 countries with highest groceries
-
-
-### Bottom 10 countries with lowest groceries
 
 
 ##### 4. RESTAURANT PRICE INDEX
@@ -156,10 +147,6 @@ histogram_plot_function(x = df$rent_index, axis_name = "groceries index")
 histogram_plot_function(x = df$rent_index, axis_name = "restaurant price index")
 
 
-### Top 10 countries with highest restaurant
-
-
-### Bottom 10 countries with lowest restaurant
 
 
 ##### 5. LOCAL PURCHASING POWER INDEX
